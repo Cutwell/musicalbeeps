@@ -3,17 +3,17 @@ from setuptools import setup, find_packages
 
 HERE = pathlib.Path(__file__).parent
 
-README = (HERE / "PYPI_README.md").read_text()
+README = (HERE / "README.md").read_text()
 
 setup(
     name="musicalbeeps",
-    version="0.2.9",
+    version="0.1",
     description="Play sound beeps corresponding to musical notes.",
     long_description=README,
     long_description_content_type="text/markdown",
-    url="https://github.com/MaelDrapier/musicalbeeps",
-    author="Maël Drapier",
-    author_email="mael.drapier@gmail.com",
+    url="https://github.com/Cutwell/musicalbeeps",
+    author="Maël Drapier, Zachary Smith",
+    author_email="zachsmith.dev@gmail.com",
     license="MIT",
     keywords="music musical note notes beep beeps play player sound frequency",
     classifiers=[
@@ -26,9 +26,4 @@ setup(
     ],
     packages=find_packages(),
     install_requires=["numpy", "simpleaudio"],
-    entry_points={
-        "console_scripts": [
-            "musicalbeeps=musicalbeeps.script:main",
-        ]
-    },
 )
