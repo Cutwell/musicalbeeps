@@ -1,102 +1,23 @@
 # musicalbeeps
-[![GitHub](https://img.shields.io/github/license/MaelDrapier/musicalbeeps)](https://github.com/MaelDrapier/musicalbeeps/blob/master/LICENSE)
-[![PyPI](https://img.shields.io/pypi/v/musicalbeeps?color=blue)](https://pypi.org/project/musicalbeeps/)
-[![PyPI - Python Version](https://img.shields.io/pypi/pyversions/musicalbeeps)](https://pypi.org/project/musicalbeeps/)
-[![PyPI - Downloads](https://img.shields.io/pypi/dm/musicalbeeps?color=default)](https://pypi.org/project/musicalbeeps/)
+[![GitHub](https://img.shields.io/github/license/Cutwell/musicalbeeps)](https://github.com/Cutwell/musicalbeeps/blob/master/LICENSE)
 
-A python package to play sound beeps corresponding to musical notes from the command line or another python program.
+A python package to play sound beeps corresponding to musical notes. Extended to support layered melody and harmony for playing tunes made in the [Bitsy game editor](https://make.bitsy.org/).
 
-This package uses the [numpy](https://pypi.org/project/numpy/) and [simplaudio](https://pypi.org/project/simpleaudio/) packages.
+This package uses the [numpy](https://pypi.org/project/numpy/) and [simpleaudio](https://pypi.org/project/simpleaudio/) packages.
 
-- [Installation](#installation)
-   - [From the Python Package Index](#from-the-python-package-index)
-   - [From source](#from-source)
-- [Usage](#usage)
-    - [From the command line](#from-the-command-line)
-        - [Examples](#examples)
-    - [From a python program](#from-a-python-program)
-
-## Installation
-
-### From the [Python Package Index](https://pypi.org/project/musicalbeeps/)
-
-`pip install musicalbeeps`
-
-### From source
+## Install from source
 
 ```
-$ git clone https://github.com/MaelDrapier/musicalbeeps
+$ git clone https://github.com/Cutwell/musicalbeeps
 $ cd musicalbeeps
 $ python setup.py install
 ```
 
 ## Usage
 
-### From the command line
+See `/test` for examples of playing songs with sequential notes (`/test/jukebox.py`) and songs with more complex layered melody and harmony (`/test/bitsy.py`)
 
-`musicalbeeps --help`
-```
-usage: musicalbeeps [-h] [--silent] [--volume VOLUME] [file]
-
-Play sound beeps corresponding to musical notes.
-
-positional arguments:
-  file             a file containing musical notes
-
-optional arguments:
-  -h, --help       show this help message and exit
-  --silent         disable player output
-  --volume VOLUME  volume between 0 and 1 (default=0.3)
-
-how to play notes:
-    Notes are read from a file passed as argument, or directly from the
-    standard input. Each note must be on a new line.
-
-note format:
-    Each note must be formatted like so: 'A5#:1.5' (without quotes)
-    Where:
-        - 'A' is the note (between A and G, can be lowercase)
-        - '5' is the octave (between 0 and 8, default=4)
-        - '#' (or 'b') is optional and used to play a sharp or flat note
-        - ':1.5' is the duration of the note (1.5 seconds here, default=0.5)
-
-pause:
-    You can pause the player by replacing the note by the 'pause' word.
-    For exemple, 'pause:5' will pause the player for 5 seconds.
-```
-
-#### Examples
-- To play a B sharp on octave n°5 for 1.2 seconds: `echo "B5#:1.2" | musicalbeeps`
-
-- To play the content of a file: `musicalbeeps file_to_play.txt`
-
-Example files are provided in the [**music_scores**](music_scores) directory of this repository.
-
-
-### From a python program
-```Python
-import musicalbeeps
-
-
-player = musicalbeeps.Player(volume = 0.3,
-                            mute_output = False)
-
-# Examples:
-
-# To play an A on default octave n°4 for 0.2 seconds
-player.play_note("A", 0.2)
-
-# To play a G flat on octave n°3 for 2.5 seconds
-player.play_note("G3b", 2.5)
-
-# To play a F sharp on octave n°5 for the default duration of 0.5 seconds
-player.play_note("F5#")
-
-# To pause the player for 3.5 seconds
-player.play_note("pause", 3.5)
-```
-
-#### Initialization parameters for the `Player` class
+### Initialization parameters for the `Player` class
 
 |Name|Type|Default|Description|
 |:---:|:---:|:---:|:---|

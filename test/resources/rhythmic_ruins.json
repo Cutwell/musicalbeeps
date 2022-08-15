@@ -1,0 +1,1329 @@
+{
+    "tune": {
+        "id": "3",
+        "name": "rhythmic ruins",
+        "melody": [
+            [
+                {
+                    "beats": 3,
+                    "note": 5,
+                    "octave": 3
+                },
+                {
+                    "beats": 0,
+                    "note": 0,
+                    "octave": 2
+                },
+                {
+                    "beats": 0,
+                    "note": 0,
+                    "octave": 2
+                },
+                {
+                    "beats": 1,
+                    "note": 10,
+                    "octave": 2
+                },
+                {
+                    "beats": 0,
+                    "note": 0,
+                    "octave": 2
+                },
+                {
+                    "beats": 2,
+                    "note": 1,
+                    "octave": 3
+                },
+                {
+                    "beats": 0,
+                    "note": 0,
+                    "octave": 2
+                },
+                {
+                    "beats": 1,
+                    "note": 10,
+                    "octave": 2
+                },
+                {
+                    "beats": 3,
+                    "note": 5,
+                    "octave": 3
+                },
+                {
+                    "beats": 0,
+                    "note": 0,
+                    "octave": 2
+                },
+                {
+                    "beats": 0,
+                    "note": 0,
+                    "octave": 2
+                },
+                {
+                    "beats": 1,
+                    "note": 6,
+                    "octave": 3
+                },
+                {
+                    "beats": 0,
+                    "note": 0,
+                    "octave": 2
+                },
+                {
+                    "beats": 0,
+                    "note": 0,
+                    "octave": 2
+                },
+                {
+                    "beats": 2,
+                    "note": 5,
+                    "octave": 3
+                },
+                {
+                    "beats": 0,
+                    "note": 0,
+                    "octave": 2
+                }
+            ],
+            [
+                {
+                    "beats": 3,
+                    "note": 5,
+                    "octave": 3
+                },
+                {
+                    "beats": 0,
+                    "note": 0,
+                    "octave": 2
+                },
+                {
+                    "beats": 0,
+                    "note": 0,
+                    "octave": 2
+                },
+                {
+                    "beats": 1,
+                    "note": 9,
+                    "octave": 2
+                },
+                {
+                    "beats": 0,
+                    "note": 0,
+                    "octave": 2
+                },
+                {
+                    "beats": 2,
+                    "note": 1,
+                    "octave": 3
+                },
+                {
+                    "beats": 0,
+                    "note": 0,
+                    "octave": 2
+                },
+                {
+                    "beats": 1,
+                    "note": 9,
+                    "octave": 2
+                },
+                {
+                    "beats": 3,
+                    "note": 5,
+                    "octave": 3
+                },
+                {
+                    "beats": 0,
+                    "note": 0,
+                    "octave": 2
+                },
+                {
+                    "beats": 0,
+                    "note": 0,
+                    "octave": 2
+                },
+                {
+                    "beats": 2,
+                    "note": 10,
+                    "octave": 3
+                },
+                {
+                    "beats": 0,
+                    "note": 0,
+                    "octave": 2
+                },
+                {
+                    "beats": 1,
+                    "note": 10,
+                    "octave": 2
+                },
+                {
+                    "beats": 1,
+                    "note": 3,
+                    "octave": 3
+                },
+                {
+                    "beats": 0,
+                    "note": 0,
+                    "octave": 2
+                }
+            ],
+            [
+                {
+                    "beats": 4,
+                    "note": 5,
+                    "octave": 3
+                },
+                {
+                    "beats": 0,
+                    "note": 0,
+                    "octave": 2
+                },
+                {
+                    "beats": 0,
+                    "note": 0,
+                    "octave": 2
+                },
+                {
+                    "beats": 0,
+                    "note": 0,
+                    "octave": 2
+                },
+                {
+                    "beats": 1,
+                    "note": 8,
+                    "octave": 2
+                },
+                {
+                    "beats": 2,
+                    "note": 1,
+                    "octave": 3
+                },
+                {
+                    "beats": 0,
+                    "note": 0,
+                    "octave": 2
+                },
+                {
+                    "beats": 1,
+                    "note": 8,
+                    "octave": 2
+                },
+                {
+                    "beats": 3,
+                    "note": 5,
+                    "octave": 3
+                },
+                {
+                    "beats": 0,
+                    "note": 0,
+                    "octave": 2
+                },
+                {
+                    "beats": 0,
+                    "note": 0,
+                    "octave": 2
+                },
+                {
+                    "beats": 1,
+                    "note": 3,
+                    "octave": 3
+                },
+                {
+                    "beats": 0,
+                    "note": 0,
+                    "octave": 2
+                },
+                {
+                    "beats": 1,
+                    "note": 5,
+                    "octave": 3
+                },
+                {
+                    "beats": 2,
+                    "note": 1,
+                    "octave": 3
+                },
+                {
+                    "beats": 0,
+                    "note": 0,
+                    "octave": 2
+                }
+            ],
+            [
+                {
+                    "beats": 4,
+                    "note": 3,
+                    "octave": 3
+                },
+                {
+                    "beats": 0,
+                    "note": 0,
+                    "octave": 2
+                },
+                {
+                    "beats": 0,
+                    "note": 0,
+                    "octave": 2
+                },
+                {
+                    "beats": 0,
+                    "note": 0,
+                    "octave": 2
+                },
+                {
+                    "beats": 0,
+                    "note": 0,
+                    "octave": 2
+                },
+                {
+                    "beats": 0,
+                    "note": 0,
+                    "octave": 2
+                },
+                {
+                    "beats": 2,
+                    "note": 10,
+                    "octave": 2
+                },
+                {
+                    "beats": 0,
+                    "note": 0,
+                    "octave": 2
+                },
+                {
+                    "beats": 4,
+                    "note": 10,
+                    "octave": 2
+                },
+                {
+                    "beats": 0,
+                    "note": 0,
+                    "octave": 2
+                },
+                {
+                    "beats": 0,
+                    "note": 0,
+                    "octave": 2
+                },
+                {
+                    "beats": 0,
+                    "note": 0,
+                    "octave": 2
+                },
+                {
+                    "beats": 0,
+                    "note": 0,
+                    "octave": 2
+                },
+                {
+                    "beats": 0,
+                    "note": 0,
+                    "octave": 2
+                },
+                {
+                    "beats": 1,
+                    "note": 10,
+                    "octave": 2
+                },
+                {
+                    "beats": 1,
+                    "note": 0,
+                    "octave": 3
+                }
+            ],
+            [
+                {
+                    "beats": 4,
+                    "note": 1,
+                    "octave": 3
+                },
+                {
+                    "beats": 0,
+                    "note": 0,
+                    "octave": 2
+                },
+                {
+                    "beats": 0,
+                    "note": 0,
+                    "octave": 2
+                },
+                {
+                    "beats": 0,
+                    "note": 0,
+                    "octave": 2
+                },
+                {
+                    "beats": 0,
+                    "note": 0,
+                    "octave": 2
+                },
+                {
+                    "beats": 0,
+                    "note": 0,
+                    "octave": 2
+                },
+                {
+                    "beats": 2,
+                    "note": 1,
+                    "octave": 3
+                },
+                {
+                    "beats": 0,
+                    "note": 0,
+                    "octave": 2
+                },
+                {
+                    "beats": 3,
+                    "note": 1,
+                    "octave": 3
+                },
+                {
+                    "beats": 0,
+                    "note": 0,
+                    "octave": 2
+                },
+                {
+                    "beats": 0,
+                    "note": 0,
+                    "octave": 2
+                },
+                {
+                    "beats": 1,
+                    "note": 3,
+                    "octave": 3
+                },
+                {
+                    "beats": 0,
+                    "note": 0,
+                    "octave": 2
+                },
+                {
+                    "beats": 0,
+                    "note": 0,
+                    "octave": 2
+                },
+                {
+                    "beats": 2,
+                    "note": 1,
+                    "octave": 3
+                },
+                {
+                    "beats": 0,
+                    "note": 0,
+                    "octave": 2
+                }
+            ],
+            [
+                {
+                    "beats": 3,
+                    "note": 1,
+                    "octave": 3
+                },
+                {
+                    "beats": 0,
+                    "note": 0,
+                    "octave": 2
+                },
+                {
+                    "beats": 0,
+                    "note": 0,
+                    "octave": 2
+                },
+                {
+                    "beats": 1,
+                    "note": 5,
+                    "octave": 2
+                },
+                {
+                    "beats": 3,
+                    "note": 0,
+                    "octave": 3
+                },
+                {
+                    "beats": 0,
+                    "note": 0,
+                    "octave": 2
+                },
+                {
+                    "beats": 0,
+                    "note": 0,
+                    "octave": 2
+                },
+                {
+                    "beats": 1,
+                    "note": 0,
+                    "octave": 2
+                },
+                {
+                    "beats": 3,
+                    "note": 0,
+                    "octave": 3
+                },
+                {
+                    "beats": 0,
+                    "note": 0,
+                    "octave": 2
+                },
+                {
+                    "beats": 0,
+                    "note": 0,
+                    "octave": 2
+                },
+                {
+                    "beats": 1,
+                    "note": 3,
+                    "octave": 2
+                },
+                {
+                    "beats": 3,
+                    "note": 10,
+                    "octave": 2
+                },
+                {
+                    "beats": 0,
+                    "note": 0,
+                    "octave": 2
+                },
+                {
+                    "beats": 0,
+                    "note": 0,
+                    "octave": 2
+                },
+                {
+                    "beats": 0,
+                    "note": 0,
+                    "octave": 2
+                }
+            ],
+            [
+                {
+                    "beats": 3,
+                    "note": 10,
+                    "octave": 2
+                },
+                {
+                    "beats": 0,
+                    "note": 0,
+                    "octave": 2
+                },
+                {
+                    "beats": 0,
+                    "note": 0,
+                    "octave": 2
+                },
+                {
+                    "beats": 0,
+                    "note": 0,
+                    "octave": 2
+                },
+                {
+                    "beats": 1,
+                    "note": 0,
+                    "octave": 3
+                },
+                {
+                    "beats": 0,
+                    "note": 0,
+                    "octave": 2
+                },
+                {
+                    "beats": 1,
+                    "note": 1,
+                    "octave": 3
+                },
+                {
+                    "beats": 0,
+                    "note": 0,
+                    "octave": 2
+                },
+                {
+                    "beats": 1,
+                    "note": 10,
+                    "octave": 2
+                },
+                {
+                    "beats": 0,
+                    "note": 0,
+                    "octave": 2
+                },
+                {
+                    "beats": 1,
+                    "note": 1,
+                    "octave": 2
+                },
+                {
+                    "beats": 1,
+                    "note": 3,
+                    "octave": 2
+                },
+                {
+                    "beats": 1,
+                    "note": 8,
+                    "octave": 2
+                },
+                {
+                    "beats": 1,
+                    "note": 8,
+                    "octave": 1
+                },
+                {
+                    "beats": 0,
+                    "note": 0,
+                    "octave": 2
+                },
+                {
+                    "beats": 1,
+                    "note": 1,
+                    "octave": 1
+                }
+            ],
+            [
+                {
+                    "beats": 1,
+                    "note": 10,
+                    "octave": 2
+                },
+                {
+                    "beats": 0,
+                    "note": 0,
+                    "octave": 2
+                },
+                {
+                    "beats": 1,
+                    "note": 10,
+                    "octave": 1
+                },
+                {
+                    "beats": 0,
+                    "note": 0,
+                    "octave": 2
+                },
+                {
+                    "beats": 1,
+                    "note": 1,
+                    "octave": 2
+                },
+                {
+                    "beats": 0,
+                    "note": 0,
+                    "octave": 2
+                },
+                {
+                    "beats": 1,
+                    "note": 5,
+                    "octave": 2
+                },
+                {
+                    "beats": 0,
+                    "note": 0,
+                    "octave": 2
+                },
+                {
+                    "beats": 1,
+                    "note": 10,
+                    "octave": 2
+                },
+                {
+                    "beats": 0,
+                    "note": 0,
+                    "octave": 2
+                },
+                {
+                    "beats": 0,
+                    "note": 0,
+                    "octave": 2
+                },
+                {
+                    "beats": 0,
+                    "note": 0,
+                    "octave": 2
+                },
+                {
+                    "beats": 0,
+                    "note": 0,
+                    "octave": 2
+                },
+                {
+                    "beats": 0,
+                    "note": 0,
+                    "octave": 2
+                },
+                {
+                    "beats": 0,
+                    "note": 0,
+                    "octave": 2
+                },
+                {
+                    "beats": 0,
+                    "note": 0,
+                    "octave": 2
+                }
+            ]
+        ],
+        "harmony": [
+            [
+                {
+                    "beats": 1,
+                    "note": 10,
+                    "octave": 1
+                },
+                {
+                    "beats": 1,
+                    "note": 1,
+                    "octave": 2
+                },
+                {
+                    "beats": 1,
+                    "note": 5,
+                    "octave": 2
+                },
+                {
+                    "beats": 0,
+                    "note": 0,
+                    "octave": 2
+                },
+                {
+                    "beats": 0,
+                    "note": 0,
+                    "octave": 2
+                },
+                {
+                    "beats": 1,
+                    "note": 5,
+                    "octave": 2
+                },
+                {
+                    "beats": 1,
+                    "note": 1,
+                    "octave": 2
+                },
+                {
+                    "beats": 1,
+                    "note": 5,
+                    "octave": 2
+                },
+                {
+                    "beats": 1,
+                    "note": 10,
+                    "octave": 1
+                },
+                {
+                    "beats": 1,
+                    "note": 1,
+                    "octave": 2
+                },
+                {
+                    "beats": 1,
+                    "note": 5,
+                    "octave": 2
+                },
+                {
+                    "beats": 1,
+                    "note": 10,
+                    "octave": 2
+                },
+                {
+                    "beats": 0,
+                    "note": 0,
+                    "octave": 2
+                },
+                {
+                    "beats": 1,
+                    "note": 10,
+                    "octave": 2
+                },
+                {
+                    "beats": 1,
+                    "note": 1,
+                    "octave": 2
+                },
+                {
+                    "beats": 1,
+                    "note": 5,
+                    "octave": 2
+                }
+            ],
+            [
+                {
+                    "beats": 1,
+                    "note": 9,
+                    "octave": 1
+                },
+                {
+                    "beats": 1,
+                    "note": 1,
+                    "octave": 2
+                },
+                {
+                    "beats": 1,
+                    "note": 5,
+                    "octave": 2
+                },
+                {
+                    "beats": 1,
+                    "note": 9,
+                    "octave": 1
+                },
+                {
+                    "beats": 0,
+                    "note": 0,
+                    "octave": 2
+                },
+                {
+                    "beats": 1,
+                    "note": 5,
+                    "octave": 2
+                },
+                {
+                    "beats": 1,
+                    "note": 1,
+                    "octave": 2
+                },
+                {
+                    "beats": 1,
+                    "note": 5,
+                    "octave": 2
+                },
+                {
+                    "beats": 1,
+                    "note": 9,
+                    "octave": 2
+                },
+                {
+                    "beats": 1,
+                    "note": 1,
+                    "octave": 2
+                },
+                {
+                    "beats": 1,
+                    "note": 5,
+                    "octave": 2
+                },
+                {
+                    "beats": 0,
+                    "note": 0,
+                    "octave": 2
+                },
+                {
+                    "beats": 1,
+                    "note": 3,
+                    "octave": 2
+                },
+                {
+                    "beats": 0,
+                    "note": 0,
+                    "octave": 2
+                },
+                {
+                    "beats": 1,
+                    "note": 1,
+                    "octave": 3
+                },
+                {
+                    "beats": 0,
+                    "note": 0,
+                    "octave": 2
+                }
+            ],
+            [
+                {
+                    "beats": 1,
+                    "note": 8,
+                    "octave": 1
+                },
+                {
+                    "beats": 1,
+                    "note": 1,
+                    "octave": 2
+                },
+                {
+                    "beats": 1,
+                    "note": 5,
+                    "octave": 2
+                },
+                {
+                    "beats": 3,
+                    "note": 6,
+                    "octave": 2
+                },
+                {
+                    "beats": 0,
+                    "note": 0,
+                    "octave": 2
+                },
+                {
+                    "beats": 0,
+                    "note": 0,
+                    "octave": 2
+                },
+                {
+                    "beats": 2,
+                    "note": 5,
+                    "octave": 2
+                },
+                {
+                    "beats": 0,
+                    "note": 0,
+                    "octave": 2
+                },
+                {
+                    "beats": 1,
+                    "note": 8,
+                    "octave": 1
+                },
+                {
+                    "beats": 1,
+                    "note": 1,
+                    "octave": 2
+                },
+                {
+                    "beats": 1,
+                    "note": 5,
+                    "octave": 2
+                },
+                {
+                    "beats": 1,
+                    "note": 6,
+                    "octave": 2
+                },
+                {
+                    "beats": 1,
+                    "note": 11,
+                    "octave": 2
+                },
+                {
+                    "beats": 1,
+                    "note": 9,
+                    "octave": 2
+                },
+                {
+                    "beats": 1,
+                    "note": 5,
+                    "octave": 2
+                },
+                {
+                    "beats": 1,
+                    "note": 3,
+                    "octave": 2
+                }
+            ],
+            [
+                {
+                    "beats": 1,
+                    "note": 7,
+                    "octave": 1
+                },
+                {
+                    "beats": 1,
+                    "note": 3,
+                    "octave": 2
+                },
+                {
+                    "beats": 1,
+                    "note": 5,
+                    "octave": 2
+                },
+                {
+                    "beats": 1,
+                    "note": 7,
+                    "octave": 2
+                },
+                {
+                    "beats": 0,
+                    "note": 0,
+                    "octave": 2
+                },
+                {
+                    "beats": 1,
+                    "note": 3,
+                    "octave": 2
+                },
+                {
+                    "beats": 1,
+                    "note": 5,
+                    "octave": 2
+                },
+                {
+                    "beats": 1,
+                    "note": 7,
+                    "octave": 2
+                },
+                {
+                    "beats": 1,
+                    "note": 7,
+                    "octave": 1
+                },
+                {
+                    "beats": 1,
+                    "note": 3,
+                    "octave": 2
+                },
+                {
+                    "beats": 1,
+                    "note": 7,
+                    "octave": 2
+                },
+                {
+                    "beats": 1,
+                    "note": 5,
+                    "octave": 2
+                },
+                {
+                    "beats": 0,
+                    "note": 0,
+                    "octave": 2
+                },
+                {
+                    "beats": 1,
+                    "note": 5,
+                    "octave": 2
+                },
+                {
+                    "beats": 1,
+                    "note": 3,
+                    "octave": 2
+                },
+                {
+                    "beats": 1,
+                    "note": 1,
+                    "octave": 1
+                }
+            ],
+            [
+                {
+                    "beats": 1,
+                    "note": 6,
+                    "octave": 0
+                },
+                {
+                    "beats": 1,
+                    "note": 1,
+                    "octave": 2
+                },
+                {
+                    "beats": 1,
+                    "note": 6,
+                    "octave": 1
+                },
+                {
+                    "beats": 1,
+                    "note": 10,
+                    "octave": 1
+                },
+                {
+                    "beats": 0,
+                    "note": 0,
+                    "octave": 2
+                },
+                {
+                    "beats": 1,
+                    "note": 6,
+                    "octave": 1
+                },
+                {
+                    "beats": 1,
+                    "note": 1,
+                    "octave": 1
+                },
+                {
+                    "beats": 1,
+                    "note": 6,
+                    "octave": 1
+                },
+                {
+                    "beats": 1,
+                    "note": 6,
+                    "octave": 0
+                },
+                {
+                    "beats": 1,
+                    "note": 9,
+                    "octave": 2
+                },
+                {
+                    "beats": 1,
+                    "note": 6,
+                    "octave": 1
+                },
+                {
+                    "beats": 1,
+                    "note": 1,
+                    "octave": 2
+                },
+                {
+                    "beats": 0,
+                    "note": 0,
+                    "octave": 2
+                },
+                {
+                    "beats": 1,
+                    "note": 6,
+                    "octave": 1
+                },
+                {
+                    "beats": 1,
+                    "note": 9,
+                    "octave": 1
+                },
+                {
+                    "beats": 1,
+                    "note": 6,
+                    "octave": 1
+                }
+            ],
+            [
+                {
+                    "beats": 1,
+                    "note": 5,
+                    "octave": 0
+                },
+                {
+                    "beats": 1,
+                    "note": 3,
+                    "octave": 1
+                },
+                {
+                    "beats": 1,
+                    "note": 9,
+                    "octave": 1
+                },
+                {
+                    "beats": 0,
+                    "note": 0,
+                    "octave": 2
+                },
+                {
+                    "beats": 0,
+                    "note": 0,
+                    "octave": 2
+                },
+                {
+                    "beats": 1,
+                    "note": 5,
+                    "octave": 1
+                },
+                {
+                    "beats": 1,
+                    "note": 1,
+                    "octave": 2
+                },
+                {
+                    "beats": 0,
+                    "note": 0,
+                    "octave": 2
+                },
+                {
+                    "beats": 1,
+                    "note": 6,
+                    "octave": 0
+                },
+                {
+                    "beats": 1,
+                    "note": 10,
+                    "octave": 1
+                },
+                {
+                    "beats": 1,
+                    "note": 3,
+                    "octave": 1
+                },
+                {
+                    "beats": 0,
+                    "note": 0,
+                    "octave": 2
+                },
+                {
+                    "beats": 0,
+                    "note": 0,
+                    "octave": 2
+                },
+                {
+                    "beats": 1,
+                    "note": 6,
+                    "octave": 1
+                },
+                {
+                    "beats": 1,
+                    "note": 1,
+                    "octave": 2
+                },
+                {
+                    "beats": 1,
+                    "note": 0,
+                    "octave": 2
+                }
+            ],
+            [
+                {
+                    "beats": 1,
+                    "note": 0,
+                    "octave": 1
+                },
+                {
+                    "beats": 1,
+                    "note": 10,
+                    "octave": 1
+                },
+                {
+                    "beats": 1,
+                    "note": 0,
+                    "octave": 2
+                },
+                {
+                    "beats": 1,
+                    "note": 4,
+                    "octave": 2
+                },
+                {
+                    "beats": 1,
+                    "note": 9,
+                    "octave": 2
+                },
+                {
+                    "beats": 0,
+                    "note": 0,
+                    "octave": 2
+                },
+                {
+                    "beats": 1,
+                    "note": 10,
+                    "octave": 2
+                },
+                {
+                    "beats": 0,
+                    "note": 0,
+                    "octave": 2
+                },
+                {
+                    "beats": 0,
+                    "note": 0,
+                    "octave": 2
+                },
+                {
+                    "beats": 1,
+                    "note": 11,
+                    "octave": 0
+                },
+                {
+                    "beats": 1,
+                    "note": 11,
+                    "octave": 1
+                },
+                {
+                    "beats": 0,
+                    "note": 0,
+                    "octave": 2
+                },
+                {
+                    "beats": 2,
+                    "note": 5,
+                    "octave": 2
+                },
+                {
+                    "beats": 0,
+                    "note": 0,
+                    "octave": 2
+                },
+                {
+                    "beats": 0,
+                    "note": 0,
+                    "octave": 2
+                },
+                {
+                    "beats": 0,
+                    "note": 0,
+                    "octave": 2
+                }
+            ],
+            [
+                {
+                    "beats": 1,
+                    "note": 10,
+                    "octave": 0
+                },
+                {
+                    "beats": 0,
+                    "note": 0,
+                    "octave": 2
+                },
+                {
+                    "beats": 1,
+                    "note": 1,
+                    "octave": 1
+                },
+                {
+                    "beats": 0,
+                    "note": 0,
+                    "octave": 2
+                },
+                {
+                    "beats": 1,
+                    "note": 5,
+                    "octave": 1
+                },
+                {
+                    "beats": 0,
+                    "note": 0,
+                    "octave": 2
+                },
+                {
+                    "beats": 1,
+                    "note": 10,
+                    "octave": 1
+                },
+                {
+                    "beats": 0,
+                    "note": 0,
+                    "octave": 2
+                },
+                {
+                    "beats": 1,
+                    "note": 2,
+                    "octave": 2
+                },
+                {
+                    "beats": 0,
+                    "note": 0,
+                    "octave": 2
+                },
+                {
+                    "beats": 0,
+                    "note": 0,
+                    "octave": 2
+                },
+                {
+                    "beats": 0,
+                    "note": 0,
+                    "octave": 2
+                },
+                {
+                    "beats": 0,
+                    "note": 0,
+                    "octave": 2
+                },
+                {
+                    "beats": 1,
+                    "note": 6,
+                    "octave": 1
+                },
+                {
+                    "beats": 0,
+                    "note": 0,
+                    "octave": 2
+                },
+                {
+                    "beats": 1,
+                    "note": 5,
+                    "octave": 1
+                }
+            ]
+        ],
+        "key": null,
+        "tempo": 1,
+        "instrumentA": 2,
+        "instrumentB": 2,
+        "arpeggioPattern": 0,
+        "instrumentIdA": 1,
+        "instrumentIdB": 1
+    }
+}
