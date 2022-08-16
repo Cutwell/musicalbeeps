@@ -146,6 +146,8 @@ class Player:
         t = np.linspace(0, duration, int(duration * self.rate), False)
 
         audio = np.sin(freq * t * 2 * np.pi)
+        audio = np.sign(audio)
+        
         audio *= 32767 / np.max(np.abs(audio))
         audio *= self.volume
 
@@ -226,6 +228,8 @@ class Player:
             t = np.linspace(0, duration, int(duration * self.rate), False)
 
             audio = np.sin(freq * t * 2 * np.pi)
+            audio = np.sign(audio)  # convert to square wave
+
             audio *= 32767 / np.max(np.abs(audio))
             audio *= self.volume
 

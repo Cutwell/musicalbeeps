@@ -1,7 +1,7 @@
 # musicalbeeps
 [![GitHub](https://img.shields.io/github/license/Cutwell/musicalbeeps)](https://github.com/Cutwell/musicalbeeps/blob/master/LICENSE)
 
-A python package to play sound beeps corresponding to musical notes. Extended to support layered melody and harmony for playing tunes made in the [Bitsy game editor](https://make.bitsy.org/).
+A python package to play sound beeps corresponding to musical notes. Extended to support layered melody and harmony for playing chiptunes made in the [Bitsy game editor](https://make.bitsy.org/).
 
 This package uses the [numpy](https://pypi.org/project/numpy/) and [simpleaudio](https://pypi.org/project/simpleaudio/) packages.
 
